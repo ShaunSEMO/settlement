@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@600&display=swap');
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+.formWrapper {
+    margin: 15px;
+    padding: 0.5rem;
+    box-shadow: 0px 3px 32px #00000021
+}
+
+.form-control {
+    border-radius: 0px !important;
+}
+
+.upSpace {
+    height: 2rem;
+}
+
+#find-me {
+    background-color: #47BBE8;
+    border: none;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    box-shadow: 0px 3px 32px #00000021
+}
+
+.map {
+    width: 100%;
+    height: auto;
+}
